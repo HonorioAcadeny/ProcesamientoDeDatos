@@ -4,13 +4,13 @@
 
 Les doy un cordial saludo a todos ustedes. 
 
-Les presento este espacio académico dedicado a la formación en la asignatura de [**Procesamiento de Datos**](https://google.com). Este tiene como objetivo facilitar el proceso de aprendizaje durante el transcurso de esta materia; aquí podrán encontrar todos los contenidos de la asignatura, además de poder subir actividades, entre otras opciones.
+Les presento este espacio académico dedicado a la formación en la asignatura de [Procesamiento-de-Datos](#P). Este tiene como objetivo facilitar el proceso de aprendizaje durante el transcurso de esta materia; aquí podrán encontrar todos los contenidos de la asignatura, además de poder subir actividades, entre otras opciones.
 
 A continuación, podrán encontrar información detallada acerca de la asignatura. Les ruego leer con atención y, de tener alguna duda, no duden en comunicarse con el [**profesor**](https://github.com/HonorioAcadeny/ProcesamientoDeDatos/blob/main/Profesor/Informacion.md).
 
 ---
 
-# 🧮 ¿De qué se trata esta asignatura?
+#P
 En la industria tecnológica actual, los datos son el **activo central** sobre el cual se construyen todos los sistemas. Saber extraerlos, transformarlos, analizarlos y ponerlos al servicio del negocio es lo que distingue a un desarrollador competente de un verdadero arquitecto de soluciones.
 
 Esta asignatura está diseñada para ir **más allá del código**. No nos limitaremos a escribir programas funcionales ni a dominar estructuras de datos: aprenderemos a ingeniar productos de software con estándares profesionales, optimizando cada fase del ciclo de desarrollo.
