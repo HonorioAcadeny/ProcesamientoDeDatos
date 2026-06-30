@@ -10,7 +10,7 @@ A continuación, podrán encontrar información detallada acerca de la asignatur
 
 ---
 
-#🧮 ¿De qué se trata esta asignatura?
+# 🧮 ¿De qué se trata esta asignatura?
 En la industria tecnológica actual, los datos son el **activo central** sobre el cual se construyen todos los sistemas. Saber extraerlos, transformarlos, analizarlos y ponerlos al servicio del negocio es lo que distingue a un desarrollador competente de un verdadero arquitecto de soluciones.
 
 Esta asignatura está diseñada para ir **más allá del código**. No nos limitaremos a escribir programas funcionales ni a dominar estructuras de datos: aprenderemos a ingeniar productos de software con estándares profesionales, optimizando cada fase del ciclo de desarrollo.
