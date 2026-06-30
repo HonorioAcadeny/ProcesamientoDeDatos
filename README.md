@@ -164,3 +164,54 @@ El contenido de la asignatura está distribuido en cinco (5) unidades, a saber:
    - Normativa ISO 9000 aplicada al software.
    - Métricas de software.
    - Métricas de proceso.
+---
+
+# 📅 1. Cronograma y Ponderación de Evaluaciones
+
+Para aprobar la asignatura, se realizarán entregas periódicas y evaluaciones continuas. A continuación se detalla el plan de evaluación planificado para el semestre:
+
+| Evaluación | Unidad / Temas Asociados | Tipo de Actividad | Ponderación | Semana Estimar |
+| :--- | :--- | :--- | :---: | :---: |
+| **Hito 1: Modelado** | Unidad I y Unidad II | Proyecto Práctico: Análisis y Modelado de Datos (DFD + Diccionario de Datos) | **25%** | Semana 4 |
+| **Hito 2: Desarrollo** | Unidad III | Defensa de Código: Prototipo Funcional bajo el Paradigma POO | **30%** | Semana 8 |
+| **Hito 3: Arquitectura** | Unidad IV y Unidad V | Caso de Estudio: Selección de Ciclo de Vida y Métricas de Calidad | **25%** | Semana 12 |
+| **Evaluación Continua** | Todas las Unidades | Participación en foros de debate, retos de código semanales y talleres cortos | **20%** | Continuo |
+| **Total** | | | **100%** | |
+
+---
+
+# 📚 2. Bibliografía y Recursos Recomendados
+
+Para profundizar en los conceptos teóricos y prácticos de la materia, se sugiere consultar las siguientes fuentes de referencia:
+
+### 📖 Textos Guía (Clásicos de Ingeniería)
+* **Pressman, R. S. (2010).** *Ingeniería de Software: Un enfoque práctico* (7ma ed.). McGraw-Hill.
+* **Date, C. J. (2004).** *Introducción a los Sistemas de Bases de Datos* (8va ed.). Pearson Educación.
+* **Martin, R. C. (2008).** *Clean Code: A Handbook of Agile Software Craftsmanship*. Prentice Hall (Esencial para las unidades de POO y Calidad).
+
+### 🌐 Recursos Digitales y Documentación Oficial
+* [Documentación de Referencia UML](https://www.uml.org/) — Estándar para el modelado de sistemas orientados a objetos.
+* [Agile Manifesto](https://agilemanifesto.org/iso/es/) — Fundamentos de los marcos de trabajo modernos y evolutivos.
+
+---
+
+# ⚖️ 3. Reglas del Juego (Políticas del Curso)
+
+Para garantizar un entorno de aprendizaje armónico, colaborativo y transparente, acordamos cumplir con las siguientes pautas:
+
+* ⏱️ **Entregas Tardías:** Las actividades prácticas deben entregarse en la fecha estipulada. Toda entrega fuera de plazo tendrá una penalización del **10% de la nota por cada día de retraso**, aceptándose trabajos hasta un máximo de 3 días tarde (salvo justificativo de fuerza mayor).
+* 🧠 **Honestidad Académica y Código:** Se fomenta el trabajo en equipo y la investigación. Sin embargo, el **plagio de código es inaceptable**. Si utilizas fragmentos de librerías públicas o asistentes de Inteligencia Artificial (IA), debes documentarlo y comentarlo debidamente en tu código explicando su funcionamiento. Copiar el proyecto de otro compañero resultará en la anulación automática de la nota (0).
+* 💬 **Netiqueta en Canales Virtuales:** En los foros y chats mantendremos una comunicación respetuosa, profesional y constructiva. Las dudas sobre proyectos se atienden de manera pública en el aula para beneficio de todos.
+
+---
+
+# 💬 4. Canales de Interacción y Comunicación
+
+El aula virtual cuenta con espacios dedicados para comunicarnos según la naturaleza de la interacción:
+
+* ☕ **[Foro de Cafetería / Networking]**
+  * *¿Para qué sirve?:* Espacio informal para presentarse, conocer a tus compañeros de cohorte, debatir sobre noticias tecnológicas y coordinar la creación de tus equipos de trabajo.
+* ❓ **[Foro de Dudas Académicas]**
+  * *¿Para qué sirve?:* Si tienes una traba con un algoritmo, una duda sobre el modelo relacional o una pregunta sobre los requisitos de una asignación, publícala aquí. El profesor o tus propios compañeros te responderán de forma abierta.
+* 📨 **[Mensajería Privada / Correo]**
+  * *¿Para qué sirve?:* Exclusivo para asuntos estrictamente personales, solicitudes de prórrogas justificadas o revisión de notas individuales.
