@@ -27,12 +27,13 @@ El objetivo es que adquieran una visión **end-to-end** del proceso de construcc
 
 # Sinopsis de Contenido Curricular:
 
-El contenido de la asignatura está distribuido en cuatro (4) unidades, a saber:
+El contenido de la asignatura está distribuido en cinco (5) unidades, a saber:
 
  - 🗂️ **Unidad I:** Procesamiento de Datos.
  - 💻 **Unidad II:** Programación Estructurada.
  - 🧩 **Unidad III:** Programación Orientada a Objetos.
  - ⚙️ **Unidad IV:** Ingeniería del Software.
+ - ⏱️ **Unidad V:** Sistemas de Tiempo Real (STR) y Calidad de Software.
 
 ---
 
