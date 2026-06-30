@@ -4,7 +4,7 @@
 
 Les doy un cordial saludo a todos ustedes. 
 
-Les presento este espacio académico dedicado a la formación en la asignatura de [Procesamiento-de-Datos](#🧮-¿De-qué-se-trata-esta-asignatura?). Este tiene como objetivo facilitar el proceso de aprendizaje durante el transcurso de esta materia; aquí podrán encontrar todos los contenidos de la asignatura, además de poder subir actividades, entre otras opciones.
+Les presento este espacio académico dedicado a la formación en la asignatura de [**Procesamiento de Datos**](#🧮-¿De-qué-se-trata-esta-asignatura?). Este tiene como objetivo facilitar el proceso de aprendizaje durante el transcurso de esta materia; aquí podrán encontrar todos los contenidos de la asignatura, además de poder subir actividades, entre otras opciones.
 
 A continuación, podrán encontrar información detallada acerca de la asignatura. Les ruego leer con atención y, de tener alguna duda, no duden en comunicarse con el [**profesor**](https://github.com/HonorioAcadeny/ProcesamientoDeDatos/blob/main/Profesor/Informacion.md).
 
